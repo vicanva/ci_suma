@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
 
         layout = QVBoxLayout()
 
-        label = QLabel("Hola mundo!")
+        label = QLabel("Hola mundo! desde Linux Mint")
         label.setAlignment(Qt.AlignCenter)
         layout.addWidget(label)
 
